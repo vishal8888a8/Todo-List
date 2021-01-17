@@ -1,5 +1,5 @@
 # Todo-List
-Using this website you can add tasks you need to do and manage accordingle
+Using this website you can add tasks you need to do and manage accordingly
 
 # Technologies used
 - html
